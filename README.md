@@ -1,4 +1,4 @@
-Hi there, I'm Olivia. I'm a current junior at Harvard College studying Applied Mathematics, Data Science, and Mind, Brain, and Behavior, and I'm passionate about understanding and improving the human experience at the crossroads of technology, data, and empathic innovation. This GitHub contains personal class projects I've pursued during my time at Harvard.
+Hi! I'm Olivia. I'm a senior at Harvard College studying Applied Mathematics and Mind, Brain, Behavior, and I'm passionate about understanding and improving the human experience at the crossroads of technology, data, and empathic innovation. This GitHub contains personal class projects I've pursued during my time at Harvard.
 
 Projects:
 - song pronoun analysis: This computational social psychology project seeks to uncover language usage patterns in song lyrics through an initial case study of the relationship fetween function-word frequency in lyrics and songwriter age. This endeavor is inspired by the findings of psychologist James Pennebaker that the pronouns and function words we subconsciously say or write can reveal much about who we are, and it probes the potential to apply such kinds of data analysis in a new way - to song lyrics.
@@ -7,7 +7,7 @@ Projects:
 
 - feeling-color: This computer science capstone project explores the close connection between human emotions and colors. This multi-component project involved an emotion-color connection data collection survey (participants were willing Harvard students), backend data and pattern analysis, and a web-based form and visualization interface. 
 
-Contact me at: oliviazhang@college.harvard.edu
+Feel free to contact me at oliviazhang@college.harvard.edu
 
 <!---
 Livy08/Livy08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
